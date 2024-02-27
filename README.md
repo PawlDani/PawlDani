@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PawlDani
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning HTML / CSS / JAVASCRIPT / RWD / SASS / REACT
+- 🌱 I’m currently learning REACT Native / Next.js / Vue.js / TypeScript
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
